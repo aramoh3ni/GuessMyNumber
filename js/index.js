@@ -17,10 +17,10 @@ class GMN {
       numberHigherOrLower: "Sorry! Number should be between 1️⃣ & 2️⃣",
     };
     this.background = {
-      warn: "rgba(245, 241, 18, 0.904)",
-      warn2: "rgba(245, 71, 18, 0.904",
+      warn: "linear-gradient(-45deg, #eee452, #e7a33c, #d55b23, #d54723)",
+      warn2: "linear-gradient(-45deg, #eee452, #e7a33c, #d55b23, #d54723)",
       sucess: "rgba(24, 201, 68, 0.801)",
-      default: "rgba(206, 206, 206, 0.904)",
+      default: "linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab)",
     };
     this.icon = {
       wow: "🙀",
